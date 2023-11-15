@@ -1,0 +1,116 @@
+/*kaikki tyylit tänne */
+
+body {
+    background-color: pink;
+    
+}
+
+* {
+    margin: 0;
+    padding: 0;
+  
+}
+
+/*navi alkaa*/
+
+nav {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+nav ul {
+    background-color: orangered;
+    list-style: none;
+    max-height: 50px;
+    text-align: center;
+}
+
+nav ul li {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    padding-left: 20px;
+    color:aquamarine;
+}
+
+nav ul li a:hover {
+    color: orange;
+}
+
+
+
+
+/*nav päättyy*/
+
+/*EKA*/
+#eka {
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+#eka h1 {
+    color:brown;
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+
+#eka p {
+    padding-bottom: 20px;
+}
+
+#eka img {
+    max-width: 500px;
+    max-height: 500px;
+    border-radius: 20px;
+    
+}
+
+
+
+
+/*TOKA*/
+#toka {
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#toka h1 {
+    color:aquamarine;
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+
+#toka p {
+    padding-bottom: 10px;
+}
+
+#toka img {
+    max-width: 500px;
+    max-height: 500px;
+    border-radius: 20px;
+}
+
+
+/*KOLMAS*/
+#kolmas {
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#kolmas h1 {
+    color: blueviolet;
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+
+#kolmas p {
+    padding-bottom: 10px;
+}
+
+#kolmas img {
+    max-width: 500px;
+    max-height: 500px;
+    border-radius: 20px;
+}
